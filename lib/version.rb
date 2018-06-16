@@ -1,5 +1,4 @@
 module RSpecJavascriptMatchers
-  # This module holds the Retryable version information.
   module Version
     module_function
 

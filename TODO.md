@@ -1,1 +1,0 @@
-https://github.com/rspec/rspec-expectations/blob/master/spec/support/shared_examples.rb
